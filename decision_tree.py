@@ -15,7 +15,6 @@ class Node:
         return self.__type__
 
 class DecisionTree:
-    
     graph = dict()
     head = None
 
